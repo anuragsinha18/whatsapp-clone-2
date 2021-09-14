@@ -20,7 +20,7 @@
 ## Development
 
 ```
-$ git clone https://github.com/tripathi-abhishek/whatsapp-clone-2.git
+$ git clone https://github.com/anuragsinha18/whatsapp-clone-2.git
 $ cd whatsapp-clone-2
 $ npm install
 $ npm start
